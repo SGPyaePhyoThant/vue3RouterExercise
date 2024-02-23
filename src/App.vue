@@ -59,5 +59,7 @@ nav a.router-link-exact-active {
   color: #ffd000;
   border: 0px;
   border-radius: 5px;
+  font-weight:bold ;
+  cursor: pointer;
 }
 </style>
